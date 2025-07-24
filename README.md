@@ -70,13 +70,13 @@ Source: [Kaggle - Walmart Sales Data](https://www.kaggle.com/datasets/aungpyaeap
 
 ## 📈 Visualizations
 
-- 📍 Branch-wise Sales Distribution (Bar, Pie)
-- 📊 Product Line Popularity
-- 🧾 Payment Method Frequency
-- 👨‍👩‍👧 Gender-wise Revenue
-- 📅 Sales Trends by Date and Time
-- 🌡️ Heatmaps for Correlation
-- 📌 Top Cities by Gross Income
+-  Branch-wise Sales Distribution (Bar, Pie)
+-  Product Line Popularity
+-  Payment Method Frequency
+-  Gender-wise Revenue
+-  Sales Trends by Date and Time
+-  Heatmaps for Correlation
+-  Top Cities by Gross Income
 
 ---
 
@@ -92,13 +92,9 @@ These insights can help Walmart refine inventory planning, staffing, and marketi
 
 ---
 
-## 📬 Contact
-
+## Contact
 For queries or suggestions, feel free to reach out:
-
-**Vibha Chauhan**  
-📧 vibha.email@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-
+**Vibha Singh Chauhan**  
+  vibhachauhan85@gmail.com  
 ---
 
